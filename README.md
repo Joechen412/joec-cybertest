@@ -1,6 +1,6 @@
 <h1>Hi, I'm Joe Chen! <br/><a href="https://github.com/joec-cybertest"></a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Language C Projects:</h2>
 
 - <b>Active Directory Homelab</b>
 
